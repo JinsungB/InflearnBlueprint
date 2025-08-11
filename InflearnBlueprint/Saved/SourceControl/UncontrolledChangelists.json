@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LV/LV_BP01.umap",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv01/BP_Lv01Floor.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LevelPrototyping/Meshes/SM_SM_ChamferCube.uasset"
+			]
+		}
+	]
+}
