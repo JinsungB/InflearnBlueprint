@@ -17,7 +17,10 @@
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.uasset",
-				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LevelPrototyping/Meshes/SM_SM_ChamferCube.uasset"
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LevelPrototyping/Meshes/SM_SM_ChamferCube.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv01/BP_Lv01PlatformA.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv01/BP_Lv01PlatformB.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv01/BP_Lv01PlatformC.uasset"
 			]
 		}
 	]
