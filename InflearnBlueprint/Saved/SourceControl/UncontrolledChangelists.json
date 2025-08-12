@@ -65,7 +65,17 @@
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv05/DT_Lv05ForStruct.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv05/BP_Lv05SwitchForInterface.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv05/BPI_Lv05Interface.uasset",
-				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv05/BP_Lv05PlatformD.uasset"
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv05/BP_Lv05PlatformD.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LV/LV_BP06.umap",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv06/BP_Lv06Floor.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv06/BP_Lv06PlatformA.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv06/BP_Lv06PlatformB.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv06/BP_Lv06PlatformC.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv06/BP_Lv06Spawn01.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv06/BP_Lv06Spawn02.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv06/BP_Lv06Spawn03.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv06/BP_Lv06Spawn04.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
