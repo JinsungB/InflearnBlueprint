@@ -62,7 +62,9 @@
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv05/BP_Lv05SwitchC.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv05/E_Lv05Enum01.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv05/F_Lv05Strust.uasset",
-				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv05/DT_Lv05ForStruct.uasset"
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv05/DT_Lv05ForStruct.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv05/BP_Lv05SwitchForInterface.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv05/BPI_Lv05Interface.uasset"
 			]
 		}
 	]
