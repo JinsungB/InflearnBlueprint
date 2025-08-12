@@ -92,7 +92,9 @@
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv07/BP_Lv07SwitchA.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Common/BP_PlayerRespawn.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Common/BP_SaveLocation.uasset"
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Common/BP_SaveLocation.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LV/LV_BP08.umap",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv08/BP_Lv08Floor.uasset"
 			]
 		}
 	]
