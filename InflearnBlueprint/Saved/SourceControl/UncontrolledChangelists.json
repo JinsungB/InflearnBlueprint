@@ -44,7 +44,10 @@
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv04/BP_Lv04Spawn01.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv04/BP_Lv04Spawn02.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv04/BP_Lv04Spawn03.uasset",
-				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv04/BP_Lv04Spawn04.uasset"
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv04/BP_Lv04Spawn04.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv04/BP_Lv04PlatformMaster.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv04/BP_Lv04SwitchMasterA.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv04/BP_Lv04SwitchMasterB.uasset"
 			]
 		}
 	]
