@@ -100,7 +100,23 @@
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv08/BP_Lv08SwitchA.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/FirstPerson/MI_FirstPersonColorway.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/TopDown/MI_Colorway.uasset",
-				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/TopDown/Blueprints/BP_TopDownController.uasset"
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/VehicleTemplate/Blueprints/BP_AssetGuideline_Chaos.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/VehicleTemplate/Blueprints/BP_GM_VehicleBasic.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/VehicleTemplate/Blueprints/BP_P_Vehicle.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/Input/IMC_DefaultThird.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/TopDown/Input/IMC_DefaultTopDown.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/TopDown/Input/IMC_Default.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/VehicleTemplate/Blueprints/BP_PC_Vehicle.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/VehicleTemplate/Input/IMC_DefaultVehicle.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/VehicleTemplate/Input/IMC_Default.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Common/Input/IA_OnBoard.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/VehicleTemplate/Blueprints/OffroadCar/BP_P_Offroad.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Common/Input/IMC_MyIMC.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/VehicleTemplate/Blueprints/SportsCar/BP_P_SportsCar.uasset"
 			]
 		}
 	]
