@@ -89,7 +89,10 @@
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LV/_GENERATED/com05/Torus_84EB3397.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv07/BP_Lv07SwitchB.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv07/BP_Lv07SwitchC.uasset",
-				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv07/BP_Lv07SwitchA.uasset"
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv07/BP_Lv07SwitchA.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Common/BP_PlayerRespawn.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Common/BP_SaveLocation.uasset"
 			]
 		}
 	]
