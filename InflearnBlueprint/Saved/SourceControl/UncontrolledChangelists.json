@@ -77,7 +77,6 @@
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv06/BP_Lv06Spawn04.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/Input/Actions/IA_MyAction.uasset",
-				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/Input/IMC_Default.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv06/BPI_Lv06Thirdperson.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LV/LV_BP07.umap",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv07/BP_Lv07Floor.uasset",
@@ -107,16 +106,19 @@
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/Input/IMC_DefaultThird.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/TopDown/Input/IMC_DefaultTopDown.uasset",
-				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/TopDown/Input/IMC_Default.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/VehicleTemplate/Blueprints/BP_PC_Vehicle.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/VehicleTemplate/Input/IMC_DefaultVehicle.uasset",
-				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/VehicleTemplate/Input/IMC_Default.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Common/Input/IA_OnBoard.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/VehicleTemplate/Blueprints/OffroadCar/BP_P_Offroad.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Common/Input/IMC_MyIMC.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
-				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/VehicleTemplate/Blueprints/SportsCar/BP_P_SportsCar.uasset"
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/VehicleTemplate/Blueprints/SportsCar/BP_P_SportsCar.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/LV/LV_BP09.umap",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/BP/Lv09/BP_Lv09Floor.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/Input/IMC_Default.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/TopDown/Input/IMC_Default.uasset",
+				"E:/PROJECT/INFLEARN/InflearnBlueprint/Content/VehicleTemplate/Input/IMC_Default.uasset"
 			]
 		}
 	]
